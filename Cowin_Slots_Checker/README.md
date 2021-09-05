@@ -4,4 +4,3 @@ Automated Python Script to retrieve vaccine slots availability and get notified 
 pre requisite
 pip install playsound
 
-Full Explanation on Youtube - https://youtu.be/CItBkXVMLw4
